@@ -8,7 +8,7 @@ main:
     url: /Activities/
   - title: "Notes"
     url: /Notes/
-  - title: "Others"
-    url: /Others/
+  #- title: "Others"
+    #url: /Others/
   #- title: "Sitemap"
   # url: https://translate.google.co.jp/?hl=zh-CN&tab=rT&sl=auto&tl=en&text=wenjianjia&op=translate
