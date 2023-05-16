@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-archive"
       url: "https://arxiv.org/a/wang_q_11.html"
     - label: "MathSciNet"
-      icon: "fab fa-fw fa-layer-group"
+      icon: "fas fa-fw fa-link"
       url: "https://mathscinet.ams.org/mathscinet/MRAuthorID/1441628" 
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
