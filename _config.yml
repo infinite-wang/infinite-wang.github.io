@@ -103,16 +103,16 @@ analytics:
 author:
   name             : "Qi Wang"
   avatar           : "/assets/wang.jpg" # path of avatar image, e.g. "/assets/WechatIMG6.jpeg"
-  bio              : "I am a postdoc at YMSC."
-  location         : "Beijing, China"
+  bio              : "I am an Associate Professor at DUT."
+  location         : "Dalian, China"
   #email            :
   links:
-    - label: "Tsinghua University"
+    - label: "Dalian University of Technology"
       icon: "fa fa-fw fa-university"
-      url: "https://www.tsinghua.edu.cn/en/"
+      url: "https://en.dlut.edu.cn/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:infinite-wang@tsinghua.edu.cn"    
+      url: "mailto:infinite-wang@outlook.com"    
     - label: "ArXiv"
       icon: "fas fa-fw fa-archive"
       url: "https://arxiv.org/a/wang_q_11.html"
