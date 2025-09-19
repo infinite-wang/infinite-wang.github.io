@@ -99,6 +99,8 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
+<img src="/assets/wang.jpg" alt="Qi Wang" style="width: 150px; height: 150px; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+
 # Site Author
 author:
   name             : "Qi Wang"
