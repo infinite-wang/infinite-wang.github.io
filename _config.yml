@@ -98,9 +98,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
-<img src="{{ site.author.avatar }}" alt="{{ site.author.name }}" style="width: 2000px; height: 200px; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-
 # Site Author
 author:
   name             : "Qi Wang"
