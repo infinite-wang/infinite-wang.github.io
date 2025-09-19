@@ -106,7 +106,7 @@ author:
   location         : "Dalian, China"
   #email            :
   links:
-    - label: "Dalian University of Technology"
+    - label: "DUT"
       icon: "fa fa-fw fa-university"
       url: "https://en.dlut.edu.cn/"
     - label: "Email"
