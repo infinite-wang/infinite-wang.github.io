@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Qi Wang"
   avatar           : "/assets/wang.jpg" # path of avatar image, e.g. "/assets/WechatIMG6.jpeg"
-  bio              : "王 起"
+  bio              : "hello"
   location         : "Dalian, China"
   #email            :
   links:
