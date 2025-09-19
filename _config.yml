@@ -99,13 +99,13 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-<img src="/assets/wang.jpg" alt="Qi Wang" style="width: 150px; height: 150px; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+<img src="{{ site.author.avatar }}" alt="{{ site.author.name }}" style="width: 200px; height: 200px; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 
 # Site Author
 author:
   name             : "Qi Wang"
   avatar           : "/assets/wang.jpg" # path of avatar image, e.g. "/assets/WechatIMG6.jpeg"
-  bio              : "I am an Associate Professor at DUT."
+  #bio              : "I am an Associate Professor at DUT."
   location         : "Dalian, China"
   #email            :
   links:
