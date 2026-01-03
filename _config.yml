@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Qi Wang"
   avatar           : "/assets/wang.jpg" # path of avatar image, e.g. "/assets/WechatIMG6.jpeg"
-  bio              : "Associate Professor at School of Mathematical Sciences, Dalian University of Technology."
+  bio              : "Associate Professor at Dalian University of Technology."
   location         : "Dalian, China"
   #email            :
   links:
